@@ -2,7 +2,6 @@ name: toko_kue_uts_uas_1125170133
 description: "UTS dan UAS Aplikasi Toko Kue"
 
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
