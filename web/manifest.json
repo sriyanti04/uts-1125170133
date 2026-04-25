@@ -1,6 +1,6 @@
 {
-    "name": "uts_1125170150",
-    "short_name": "uts_1125170150",
+    "name": "uts_1125170133",
+    "short_name": "uts_1125170133",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -33,3 +33,4 @@
         }
     ]
 }
+
