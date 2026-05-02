@@ -1,19 +1,25 @@
-# uts-1125170133
+# 📱 UTS - Aplikasi Flutter Login & Dashboard
 
-A new Flutter project.
+Proyek ini dibuat untuk **Ujian Tengah Semester (UTS)** mata kuliah **Pemrograman Mobile Lanjutan**.  
+Aplikasi dikembangkan menggunakan **Flutter** dengan integrasi **Firebase Authentication** untuk login dan register.
 
-## Getting Started
+---
 
+## 🖼️ Tampilan Aplikasi
 
+### 🔹 Halaman Login
+![Login Screen](assets/images/login_screen.jpeg)
 
-This project is a starting point for a Flutter application.
+### 🔹 Halaman Dashboard
+![Dashboard Screen](assets/images/dashboard_screen.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 👩‍💻 Pengembang
+**Nama:** Sriyanti  
+**NIM:** 1125170133  
+**Kelas:** Mobile Lanjutan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+✨ *Project UTS Flutter - Login & Dashboard*
